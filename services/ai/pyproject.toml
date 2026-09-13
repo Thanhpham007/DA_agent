@@ -1,0 +1,10 @@
+[project]
+name = "da-agent-ai"
+version = "0.0.1"
+description = "AI worker for planning, analysis, and sandboxed code execution"
+requires-python = ">=3.11"
+dependencies = []
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
